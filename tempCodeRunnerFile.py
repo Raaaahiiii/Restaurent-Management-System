@@ -1,0 +1,1 @@
+ employee= Employee(name,email,phone,address,age,designation,salary)
